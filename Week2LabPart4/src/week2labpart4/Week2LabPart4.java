@@ -7,7 +7,9 @@ package week2labpart4;
 
 /**
  *
- * @author Keith
+ * @author Keith Cuanan
+ * @version Sept. 11, 2022
+ * This application prints the lyrics to the first half of the song "Never Gonna Give You Up" by Rick Astley
  */
 public class Week2LabPart4 {
 
